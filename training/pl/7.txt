@@ -1,0 +1,25 @@
+Układ Słoneczny
+24 sierpnia 2006 na kongresie Międzynarodowej Unii Astronomicznej (IAU) w Pradze uchwalona została definicja planety w Układzie Słonecznym[2][6].
+
+Zgodnie z tą definicją, planetą jest ciało niebieskie, które:
+
+znajduje się na orbicie wokół Słońca
+posiada wystarczającą masę, by własną grawitacją pokonać siły ciała sztywnego tak, aby wytworzyć kształt odpowiadający równowadze hydrostatycznej (prawie kulisty)
+oczyściło sąsiedztwo swojej orbity z innych względnie dużych obiektów.
+Obiekty niespełniające trzeciego warunku i niebędące księżycami są określane jako planety karłowate. Obiekty niespełniające drugiego i trzeciego warunku (a niebędące księżycami) to małe ciała Układu Słonecznego.
+
+Kontrowersje i krytyka
+Nowa definicja wzbudziła wiele kontrowersji i niektórzy naukowcy nie zgodzili się z jej przyjęciem[7]. Dyskusja co do adekwatności definicji koncentruje się wokół jej trzeciego punktu, dotyczącego oczyszczenia sąsiedztwa orbity.
+
+Część astronomów wolała, by uchwalono definicję pierwotnie zaproponowaną na wyżej wymienionej konferencji, która nie zawierała warunku oczyszczenia sąsiedztwa orbity. Według tej definicji za planety mogły być od razu uznane jeszcze trzy ciała niebieskie: Ceres, Eris i Charon (Pluton i Charon miały być uznane za planetę podwójną). Wersja ta spotkała się jednak ze sprzeciwem większości delegatów na kongres IAU, gdyż w przypadku jej przyjęcia ostateczna liczba planet w Układzie Słonecznym najprawdopodobniej przekroczyłaby pięćdziesiąt[8].
+
+Kontrowersje wzbudziła również interpretacja terminu „oczyszczenie sąsiedztwa” – rezolucja IAU nie podawała jego definicji, pojawiały się więc opinie, że np. Ziemia nie powinna być uznawana za planetę, bo nie oczyściła strefy swojej orbity z Księżyca i pobliskich planetoid. Jednak pojęcie oczyszczenia strefy orbitalnej zostało użyte m.in. w artykule Stevena Sotera[9], gdzie jest rozumiane jako uzyskanie dynamicznej dominacji. Obiekt uzyskuje dominację, gdy stosunek jego masy do łącznej masy pozostałych obiektów w jego strefie orbitalnej (wyznacznik planetarny μ) jest większy od 100. Pomiary masy ciał Układu Słonecznego ujawniają bardzo wyraźną różnicę (cztery rzędy wielkości) między wyznacznikami planetarnymi planet (najmniejsze μ – Mars: 5,1×103) i planet karłowatych (największe μ – Ceres: 0,33).
+
+Amerykański astronom Alan Stern, będący głównym naukowcem misji New Horizons, mającej za zadanie dokładniejsze zbadanie Plutona, stwierdził, że misja na swojej stronie internetowej i w swoich oficjalnych dokumentach będzie wciąż określać Plutona mianem „dziewiątej planety”[b].
+
+Definicja ogólna
+Definicja uchwalona w 2006 r. odnosi się jedynie do planet w Układzie Słonecznym i nie wprowadza rozgraniczenia między planetami a obiektami gwiazdopodobnymi. Ogólna, niezależna od układu planetarnego definicja planety jak dotąd nie została wypracowana, jednak astronomowie często posługują się tymczasową definicją przedstawioną w 2001 i 2003 r. w oświadczeniu Grupy Roboczej IAU ds. Planet Pozasłonecznych[1]. Zgodnie z tą definicją planetą jest obiekt, który:
+
+okrąża gwiazdę lub pozostałości gwiezdne;
+posiada masę mniejszą, niż masa wymagana do przeprowadzenia fuzji jądrowej deuteru (czyli ok. 13 mas Jowisza);
+spełnia wymagania minimalnej masy takie same, jak w przypadku planet Układu Słonecznego (obecnie: kryterium równowagi hydrostatycznej).

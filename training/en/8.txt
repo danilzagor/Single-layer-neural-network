@@ -1,0 +1,12 @@
+Location on the horizon
+Further information: Solar azimuth angle
+A video time lapse of a sunset in Tokyo
+Approximate locations of sunset on the horizon (azimuth) as described above can be found in Refs.[7][8] The figure on the right is calculated using the solar geometry routine as follows:[9]
+
+For a given latitude and a given date, calculate the declination of the Sun using
+0
+∘{\displaystyle 0^{\circ }} longitude and solar noon time as inputs to the routine;
+Calculate the sunset hour angle using the sunset equation;
+Calculate the sunset time, which is the solar noon time plus the sunset hour angle in degree divided by 15;
+Use the sunset time as input to the solar geometry routine to get the solar azimuth angle at sunset.
+An interesting feature in the figure on the right is apparent hemispheric symmetry in regions where daily sunrise and sunset actually occur. This symmetry becomes clear if the hemispheric relation in sunrise equation is applied to the x- and y-components of the solar vector presented in Ref.[9]
