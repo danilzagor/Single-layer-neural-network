@@ -1,5 +1,6 @@
 # Single-layer-neural-network
 Single-layer neural network for language identification of a given text
+
 I've implemented a single-layer neural network for language identification, a project aimed at automatically recognizing the language of a given text.
 
 The neural network architecture consists of a single layer of neurons, where each neuron corresponds to a unique language present in the dataset. The network learns to classify texts into these languages based on the patterns in the training data.
